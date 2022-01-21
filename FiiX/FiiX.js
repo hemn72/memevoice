@@ -1733,6 +1733,6 @@ client.on("ready", async () => {
   }
 });
 
-cleint.login.("تــــــۆکـــیـــن لێرە دانـــــــێ")
+cleint.login.("OTI5MDI5ODM0MzMwNDgwNzEx.YdhYdQ.e1JnYUuEfEPvMxE1luIXs7PctwY")
 ); /////
-////Coded by FiiX/////
+////Coded by HEMO/////
